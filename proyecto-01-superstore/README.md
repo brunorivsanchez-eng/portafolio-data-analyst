@@ -8,7 +8,7 @@ de datos, con foco en aplicar SQL y modelado de datos a un caso real.
 
 ## Fuente de datos
 Dataset "Sample Superstore" obtenido de Kaggle:
-[agregar link del dataset aquí]
+[https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset?resource=download]
 
 Contiene ~10.200 registros de ventas de una tienda retail durante varios años,
 con información de clientes, productos, ubicación geográfica y transacciones.
